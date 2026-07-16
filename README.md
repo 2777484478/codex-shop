@@ -1,10 +1,22 @@
-<html lang="zh-CN">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-  <title>栖味餐馆 — 当季食材 · 炭火料理</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&display=swap" rel="stylesheet" />
-</head>
-<body><div id="app"></div><script type="module" src="/src/main.js"></script></body>
-</html>
+# 栖味餐馆
+
+Vue 3 + Vite 构建的餐厅品牌展示页面。
+
+## 技术栈
+
+- Vue 3
+- Vite
+- JavaScript
+
+## 开发
+
+```bash
+# 安装依赖
+npm install
+
+# 启动开发服务器
+npm run dev
+
+# 构建生产版本
+npm run build
+```
